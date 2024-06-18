@@ -19,7 +19,7 @@ app.add_middleware(
 )
 
 API_BASE = "https://api.lingyiwanwu.com/v1"
-API_KEY = "a6022274cd8b44f182c5166cc4cc48bc"
+API_KEY = "xxxx"
 client = OpenAI(
     api_key=API_KEY,
     base_url=API_BASE
